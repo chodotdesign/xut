@@ -1,8 +1,8 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-let serviceName = "";
-let APP_DOMAIN = "";
+let serviceName = "xut";
+let APP_DOMAIN = "flows.biz.id";
 
 let prxIP = "";
 let cachedPrxList = [];
